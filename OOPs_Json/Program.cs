@@ -8,7 +8,7 @@ namespace OOPs_Json
         {
             Console.WriteLine("Welcome to the Inventory Management \n");
             InventoryManagement json = new InventoryManagement();
-            json.convert(@"D:\Bridgelab\repos\OOPs_Json\OOPs_Json\Json\Inventory.json");
+            json.Convert(@"D:\Bridgelab\repos\OOPs_Json\OOPs_Json\Json\Inventory.json");
         }  
     }
 }
