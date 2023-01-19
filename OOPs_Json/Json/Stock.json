@@ -1,0 +1,17 @@
+[
+  {
+    "stockNames": "Tata  Stock",
+    "numberOfShare":  "25000",
+    "sharePrice": "1000"
+  },
+  {
+    "stockNames": "Wipro Stock ",
+    "numberOfShare": "50000",
+    "sharePrice": "2000"
+  },
+  {
+    "stockNames": "Sony  Stock ",
+    "numberOfShare": "48000",
+    "sharePrice": "1566"
+  }
+]
