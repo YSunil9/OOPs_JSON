@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPs_Json.Json
 {
-    internal class InventoryJson
+    public class InventoryModel
   
         {
             public string Name { get; set; }
